@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://analyticsindiamag.com/wp-content/uploads/2017/09/UK-Startup-Accelerators-A-Complete-Guide.jpg);
+	background-size: cover;
+}
+h1{
+	text-align: center;
+}
+.btn{
+	background-color: red;
+	border-color: violet;
+}
+.btn primary{
+	text-align: center;
+}
